@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Chewy&display=swap');
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: 'Chewy', cursive;
+  color: white;
+}
+
+body {
+  box-sizing: border-box;
+  background: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkmsbuvno-jfEySTRovlxo1zvjpvlI0YMTzHAOjg2FprG5HWjIwG0Ri3pH1A0YG_YsMU57kfoQ1F1Iyqw2LbZx8A70HhFlmHrI-56flczoXqecP18gUgqzFFeDLYbcTg607CDRsELaWz4MaIkAH0SjysYCse7-uJwHb1N6x7675_yaI77yKd2uCf-ulXi7/s1308/bc8cee6f-0c93-464d-912a-b06158c20ab1.jpeg');
+  background-size: cove;
+  background-position: top right;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.img1 {
+  width: 75%;
+  margin-bottom: 40px;
+}
+
+.img2 {
+  width: 75% ;
+  box-shadow: -3px -3px 8px rgba(173, 181, 189, 0.5);
+  margin-bottom: 40px;
+}
+
+button {
+  padding: 15px;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-size: 1.1em;
+  border-radius: 50px;
+  background-color: rgba(216, 205, 185, 1);
+  border: 3px solid rgba(113,113,111,0.1);
+  box-shadow: -3px 3px 3px rgba(133, 133, 111, 1);
+  text-shadow: 0.4px 0.4px rgba(0, 0, 0, 0.5);
+}
+
+button:hover {
+  box-shadow: none;
+}
