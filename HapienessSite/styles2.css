@@ -15,10 +15,8 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
-  justify-content: center;
   align-items: center;
   flex-direction: column;
-  margin-top: 50p;
 }
 
 .img1 {
