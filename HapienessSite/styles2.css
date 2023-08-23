@@ -16,6 +16,7 @@ body {
   background-repeat: no-repeat;
   display: flex;
   justify-content: center;
+  align-itens: center;
   flex-direction: column;
   margin-top: 50p;
 }
