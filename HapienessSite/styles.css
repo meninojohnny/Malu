@@ -25,12 +25,12 @@ body {
 }
 
 .img1 {
-  width: 75%;
+  width: 300px;
   margin-bottom: 40px;
 }
 
 .img2 {
-  width: 75% ;
+  width: 300px;
   box-shadow: -3px -3px 8px rgba(173, 181, 189, 0.5);
   margin-bottom: 40px;
 }
