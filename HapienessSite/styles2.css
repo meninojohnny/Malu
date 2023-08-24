@@ -7,16 +7,12 @@
   color: white;
 }
 
-html {
-  height: 100vh;
-}
-
 body {
   height: 100vh;
-  background: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkmsbuvno-jfEySTRovlxo1zvjpvlI0YMTzHAOjg2FprG5HWjIwG0Ri3pH1A0YG_YsMU57kfoQ1F1Iyqw2LbZx8A70HhFlmHrI-56flczoXqecP18gUgqzFFeDLYbcTg607CDRsELaWz4MaIkAH0SjysYCse7-uJwHb1N6x7675_yaI77yKd2uCf-ulXi7/s1308/bc8cee6f-0c93-464d-912a-b06158c20ab1.jpeg');
-  background-position: center;
+  background: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0FaMd-NlfD_hTnJsfA5-xXpjmHPz23wlT0aagMTIVFAucE3zuwk0aPGoopm4euHHdY-NKWAxeaEsIO-IkfBXlzHG4Y2T8iSqk24TnX_4VSzlfa1_RpvRXG6lFcJGdkGDKnDYbYomOQCJdjBpBxR7Pt0EFRI1EtKdZuJ6_aQp_4tVR04eD1lLQnMSulacs/s1920/png_20230824_093159_0000.png');
+  background-position: top center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100% 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
