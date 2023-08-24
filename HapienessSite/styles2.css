@@ -37,8 +37,8 @@ button:hover {
 
 .bloco1 {
   background: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUeQSTLAh2rVWg68aTmWhOxxL4zIeXcGWeEB2bL00tS-HYRr36ALlJj5GxpNOf_A7ucWDaEzaUbc5RMRaEMTjfzAZCmjBnLH9UeakVqGsZhvpDRv5F7S-Dr69Mvq_Ji-WQ-pRuUdpeWjxoCObNhelGbzn_mMFHkaOmSF7ZVwa5ArGbjJ25ok6O-nLaaJSq/s1420/20230823_154051_0000.jpg');
-  width: 75%;
-  height: 100vw;
+  width: 300px;
+  height: 400px;
   background-size: cover;
   margin-bottom: 40px;
   border: 3px solid orange;
@@ -48,10 +48,10 @@ button:hover {
 }
 
 .bloco2 {
-  margin-top: 30%;
-  margin-left: 7.7%;
-  width: 85.1%;
-  height: 70%;
+  margin-top: 90.4px;
+  margin-left: 23px;
+  width: 255px;
+  height: 258.4px;
   overflow: hidden;
 }
 
