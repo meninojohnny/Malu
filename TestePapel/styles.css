@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  background: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjog-faU9XTN6ZRrntzxcIG7A-Cv_q317tO9OTBCpS4p-ju0FP7TE19IatcjbfBFZzrFW-3ZiwRRvjhQB3pXCPDRdGQAFgFlZALPEkzzziOPZLiqwDZ0oqc5mfhn_0xqDjd-sZC28efP_xiuF-_tUGiKsFCfvsV1hM1K1W9PR-jwKhgmN9gg2E6EJgg-L8p/s1200/dc95625b-f218-4578-a64c-e6d0deebd8e3.jpeg');
+}
