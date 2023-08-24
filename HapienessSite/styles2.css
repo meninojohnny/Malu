@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Chewy&display=swap');
+
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Chewy', cursive;
+  color: white;
+}
+
+body {
+  height: 100vh;
+  background: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjog-faU9XTN6ZRrntzxcIG7A-Cv_q317tO9OTBCpS4p-ju0FP7TE19IatcjbfBFZzrFW-3ZiwRRvjhQB3pXCPDRdGQAFgFlZALPEkzzziOPZLiqwDZ0oqc5mfhn_0xqDjd-sZC28efP_xiuF-_tUGiKsFCfvsV1hM1K1W9PR-jwKhgmN9gg2E6EJgg-L8p/s1200/dc95625b-f218-4578-a64c-e6d0deebd8e3.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 40px;
+}
+
+button {
+  padding: 15px;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-size: 1.1em;
+  border-radius: 50px;
+  background-color: rgba(216, 205, 185, 1);
+  border: 3px solid rgba(113, 113, 111, 0.1);
+  box-shadow: -3px 3px 3px rgba(133, 133, 111, 1);
+  text-shadow: 0.4px 0.4px rgba(0, 0, 0, 0.5);
+}
+
+button:hover {
+  box-shadow: none;
+}
+
+.bloco1 {
+  background: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUeQSTLAh2rVWg68aTmWhOxxL4zIeXcGWeEB2bL00tS-HYRr36ALlJj5GxpNOf_A7ucWDaEzaUbc5RMRaEMTjfzAZCmjBnLH9UeakVqGsZhvpDRv5F7S-Dr69Mvq_Ji-WQ-pRuUdpeWjxoCObNhelGbzn_mMFHkaOmSF7ZVwa5ArGbjJ25ok6O-nLaaJSq/s1420/20230823_154051_0000.jpg');
+  width: 75%;
+  height: 100vw;
+  background-size: cover;
+  margin-bottom: 40px;
+  border: 3px solid orange;
+  border-radius: 10px;
+  box-shadow: -3px 3px 3px rgba(133, 133, 111, 1); 
+
+}
+
+.bloco2 {
+  margin-top: 30%;
+  margin-left: 7.7%;
+  width: 85.1%;
+  height: 66.3%;
+  overflow: hidden;
+}
+
+.bloco2 > img {
+  width: 100%;
+  height: 100%;
+}
