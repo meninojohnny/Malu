@@ -10,10 +10,6 @@
   color: white;
 }
 
-html {
-  height: 100h;
-}
-
 body {
   height: 100vh;
   box-sizing: border-box;
