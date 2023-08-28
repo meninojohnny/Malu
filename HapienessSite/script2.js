@@ -1,6 +1,6 @@
 function Gerar() {
   botao.style.boxShadow = '-3px 3px 3px rgba(133, 133, 111, 1)';
-  foto.src = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil6YTcL1_3W0d6xO6l-h4rdRBgEufDtxAtRR7V7ymSEUFyAhfyLeJB_ZzrDmV5QEQjZotGbsDGANQt0ytfXhfggp0RdVXFM-ffF57L7BNvb9070nipDgi8rh3nXSkLX3yQUk6vQphqNC9JW4eGxqIjp_l8dRDlqLX07kvcVTcCBpwYxVfRwHqzUHbP-nMH/s800/image_processing20210905-23221-8i83f4.gif';
+  foto.src = 'images/loading.gif';
   setTimeout(function() {
   fetch('https://api.thecatapi.com/v1/images/search')
     .then((response) => response.json())
