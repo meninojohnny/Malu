@@ -1,5 +1,5 @@
 function Gerar() {
-  botao.style.boxShadow = '-3px 3px 3px rgba(133, 133, 111, 1)';
+  //botao.style.boxShadow = '-3px 3px 3px rgba(133, 133, 111, 1)';
   foto.src = 'images/loading.gif';
   setTimeout(function() {
   fetch('https://api.thecatapi.com/v1/images/search')
